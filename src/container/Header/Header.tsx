@@ -6,7 +6,7 @@ import IconButton from '@mui/material/IconButton'
 import MenuIcon from '@mui/icons-material/Menu'
 import Container from '@mui/material/Container'
 import Menu from 'components/Menu/Menu'
-import CartHeader from 'container/Cart/CartHeader'
+import CartHeader from 'components/Cart/CartHeader'
 
 type Props = {}
 

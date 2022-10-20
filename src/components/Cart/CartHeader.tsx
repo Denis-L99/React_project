@@ -7,7 +7,6 @@ const CartHeader = (props: Props) => {
     <div>
         <div>0</div>
         <div>$0</div>
-
     </div>
   )
 }
